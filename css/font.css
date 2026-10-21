@@ -1,0 +1,13 @@
+/* Mengatur font default global proyek */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../library/font/montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../library/font/montserrat/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+}
